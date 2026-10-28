@@ -1,0 +1,1 @@
+# Sản phẩm chỉ dùng thư viện chuẩn Python — không cần cài gì thêm.
